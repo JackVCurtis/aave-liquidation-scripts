@@ -1,0 +1,16 @@
+{
+  "name": "auction-keeper-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "@aave/protocol-v2": "^1.0.1",
+    "aws-sdk": "^2.1048.0",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.2",
+    "web3": "^1.6.1",
+    "xhr2": "^0.2.1"
+  }
+}

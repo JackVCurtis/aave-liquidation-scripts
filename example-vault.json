@@ -1,0 +1,30 @@
+[
+    {
+        "0": "0",
+        "1": "644710566605924512",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "totalCollateralETH": "0",
+        "totalDebtETH": "644710566605924512",
+        "availableBorrowsETH": "0",
+        "currentLiquidationThreshold": "0",
+        "ltv": "0",
+        "healthFactor": "0",
+        "user": "0xBD2ffc8c89D9B3F29E6cFdAEb2Dd72D930796d9B",
+        "reserveData": {
+            "USDT": {
+                "currentATokenBalance": "732893",
+                "currentStableDebt": "0",
+                "currentVariableDebt": "0",
+                "principalStableDebt": "0",
+                "scaledVariableDebt": "0",
+                "stableBorrowRate": "0",
+                "liquidityRate": "28231534623835668256258982",
+                "stableRateLastUpdated": "0",
+                "usageAsCollateralEnabled": true
+            }
+        }
+    }
+]
